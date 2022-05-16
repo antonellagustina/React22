@@ -1,4 +1,4 @@
-## Actividad 09/05 ✨ _special_ ✨
+## Actividad 09/05 ✨
 
 *Crear dento de la carpeta src una carpeta donde vamos a ir creando nuestro componentes llamada "components"*
 
